@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482858303 source:f:\te\impcode\trie\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
